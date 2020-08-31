@@ -292,6 +292,7 @@ btn4.addEventListener('click', function result() {
     } else {
         alert('Ноль делить нельзя, как и делить на ноль тоже, ты же не Гепа');
     }
+
 });
 
 
